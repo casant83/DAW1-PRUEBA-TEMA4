@@ -11,27 +11,31 @@
 
 ## EJERCICIO 2 ##
 
+![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/2a.png)
 
+![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/2b.png)
 
 
 ## EJERCICIO 3 ##
 
+![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/3a.png)
 
+![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/3b.png)
 
 
 ## EJERCICIO 4 ##
 
-
+![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/4.png)
 
 
 ## EJERCICIO 5 ##
 
-
+![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/5.png)
 
 
 ## EJERCICIO 6 ##
 
-
+![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/6.png)
 
 
 ## EJERCICIO 7 ##
