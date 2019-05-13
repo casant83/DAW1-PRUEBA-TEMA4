@@ -11,31 +11,31 @@
 
 ## EJERCICIO 2 ##
 
-![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/2a.png)
+![Ejercicio2](DAW1-PRUEBA-TEMA4/img/2a.png)
 
-![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/2b.png)
+![Ejercicio2]( DAW1-PRUEBA-TEMA4/img/2b.png )
 
 
 ## EJERCICIO 3 ##
 
-![Ejercicio3](/home/usuario/NetBeansProjects/zoo/img/3a.png)
+![Ejercicio3]( DAW1-PRUEBA-TEMA4/img/3a.png )
 
-![Ejercicio3](/home/usuario/NetBeansProjects/zoo/img/3b.png)
+![Ejercicio3]( DAW1-PRUEBA-TEMA4/img/3b.png )
 
 
 ## EJERCICIO 4 ##
 
-![Ejercicio4](/home/usuario/NetBeansProjects/zoo/img/4.png)
+![Ejercicio4]( DAW1-PRUEBA-TEMA4/img/4.png )
 
 
 ## EJERCICIO 5 ##
 
-![Ejercicio5](/home/usuario/NetBeansProjects/zoo/img/5.png)
+![Ejercicio5]( DAW1-PRUEBA-TEMA4/img/5.png )
 
 
 ## EJERCICIO 6 ##
 
-![Ejercicio6](/home/usuario/NetBeansProjects/zoo/img/6.png)
+![Ejercicio6]( DAW1-PRUEBA-TEMA4/img/6.png )
 
 
 ## EJERCICIO 7 ##
