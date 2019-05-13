@@ -6,65 +6,45 @@
 
 ## EJERCICIO 1 ##
 
-<<<<<<< HEAD
-
-=======
 ![Ejercicio1]()
->>>>>>> capturas
+
 
 
 ## EJERCICIO 2 ##
 
-<<<<<<< HEAD
-![Ejercicio2](DAW1-PRUEBA-TEMA4/img/2a.png)
 
-![Ejercicio2]( DAW1-PRUEBA-TEMA4/img/2b.png )
-=======
-![Ejercicio2]()
->>>>>>> capturas
+![Ejercicio2](img/2a.png)
+
+![Ejercicio2](img/2b.png )
+
 
 
 ## EJERCICIO 3 ##
 
-<<<<<<< HEAD
-![Ejercicio3]( DAW1-PRUEBA-TEMA4/img/3a.png )
 
-![Ejercicio3]( DAW1-PRUEBA-TEMA4/img/3b.png )
-=======
-![Ejercicio3]()
->>>>>>> capturas
+![Ejercicio3](img/3a.png )
+
+![Ejercicio3](img/3b.png )
+
 
 
 ## EJERCICIO 4 ##
 
-<<<<<<< HEAD
-![Ejercicio4]( DAW1-PRUEBA-TEMA4/img/4.png )
-=======
-![Ejercicio4]()
->>>>>>> capturas
+![Ejercicio4](img/4.png )
 
 
 ## EJERCICIO 5 ##
 
-<<<<<<< HEAD
-![Ejercicio5]( DAW1-PRUEBA-TEMA4/img/5.png )
-=======
-![Ejercicio5]()
->>>>>>> capturas
+
+![Ejercicio5](img/5.png )
+
 
 
 ## EJERCICIO 6 ##
 
-<<<<<<< HEAD
-![Ejercicio6]( DAW1-PRUEBA-TEMA4/img/6.png )
-=======
-![Ejercicio6]()
->>>>>>> capturas
+![Ejercicio6](img/6.png )
+
 
 
 ## EJERCICIO 7 ##
 
-<<<<<<< HEAD
-=======
-![Ejercicio7]()
->>>>>>> capturas
