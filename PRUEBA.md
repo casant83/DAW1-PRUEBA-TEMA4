@@ -18,24 +18,24 @@
 
 ## EJERCICIO 3 ##
 
-![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/3a.png)
+![Ejercicio3](/home/usuario/NetBeansProjects/zoo/img/3a.png)
 
-![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/3b.png)
+![Ejercicio3](/home/usuario/NetBeansProjects/zoo/img/3b.png)
 
 
 ## EJERCICIO 4 ##
 
-![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/4.png)
+![Ejercicio4](/home/usuario/NetBeansProjects/zoo/img/4.png)
 
 
 ## EJERCICIO 5 ##
 
-![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/5.png)
+![Ejercicio5](/home/usuario/NetBeansProjects/zoo/img/5.png)
 
 
 ## EJERCICIO 6 ##
 
-![Ejercicio2](/home/usuario/NetBeansProjects/zoo/img/6.png)
+![Ejercicio6](/home/usuario/NetBeansProjects/zoo/img/6.png)
 
 
 ## EJERCICIO 7 ##
